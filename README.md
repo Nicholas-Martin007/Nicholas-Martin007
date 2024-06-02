@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there, I'm Nicholas Martin!👋
+#### Welcome to my GitHub Profile!
+
+🌱 I’m currently learning about Machine Learning/Deep Learning. <br>
+🔭 I’m currently working on my Gemastik Competition 2024 <br>
+📃 My personal website link: https://nicholas-martin007.github.io/ <br>
+📫 How to reach me: https://www.linkedin.com/in/nicholas-martinn/ <br>
 
 <!--
 **Nicholas-Martin007/Nicholas-Martin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
