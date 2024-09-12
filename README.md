@@ -2,7 +2,7 @@ Hi there, I'm Nicholas Martin!👋
 #### Welcome to my GitHub Profile!
 
 🌱 I’m currently learning about Machine Learning/Deep Learning. <br>
-🔭 I’m currently working on LLM project. <br>
+🔭 I’m currently working on Anti Money Laundering project. <br>
 📃 My personal website link: https://nicholas-martin007.github.io/ <br>
 📫 How to reach me: https://www.linkedin.com/in/nicholas-martinn/ <br>
 
